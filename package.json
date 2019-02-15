@@ -4,5 +4,26 @@
   "main": "index.js",
   "repository": "https://github.com/PanupongDeve/nextjs-starter.git",
   "author": "PanupongDeve <5635512110@psu.ac.th>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev-client": "next",
+    "build": "next build",
+    "start": "next start",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "express": "^4.16.4",
+    "next": "^8.0.1",
+    "next-routes": "^1.4.2",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  }
 }
+
+
