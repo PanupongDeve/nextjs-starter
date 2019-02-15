@@ -1,0 +1,8 @@
+{
+  "name": "template-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PanupongDeve/nextjs-starter.git",
+  "author": "PanupongDeve <5635512110@psu.ac.th>",
+  "license": "MIT"
+}
